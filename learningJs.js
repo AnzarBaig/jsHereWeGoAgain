@@ -1,4 +1,3 @@
-// const instead of var
 var randomNumber = Math.floor(Math.random() * 10 + 1);
 const guessField = document.querySelector(".guessField");
 const guessSubmit = document.querySelector(".guessSubmit");
