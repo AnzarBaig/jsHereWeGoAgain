@@ -1,2 +1,2 @@
 # jsHereWeGoAgain
-Few Basic Js Projects
+Few Basic Js Projects and Important concepts
