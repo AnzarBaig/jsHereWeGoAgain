@@ -8,4 +8,5 @@ jobs :
       - uses : actions/setup-node@v2
         with : 
           node-version : 16.4.2
-      - run : yarn --version
+      - name : install yarn
+        run : install yarn
